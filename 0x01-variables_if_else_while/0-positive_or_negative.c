@@ -1,25 +1,3 @@
-Task 0.txt
-Who has access
-A
-System properties
-Type
-Text
-Size
-532 bytes
-Storage used
-532 bytes
-Location
-Variables if else while
-Owner
-Antony Bahati
-Modified
-Sep 10, 2022 by Antony Bahati
-Opened
-5:16 AM by me
-Created
-Sep 10, 2022
-No description
-Viewers can download
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
